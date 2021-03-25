@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T22:21:01.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cxoott9eK-APNJJh5neJ" version="14.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-25T22:28:34.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="poDuE_WefmwfcHn8Um-n" version="14.5.1" type="github" pages="3">
   <diagram name="INDEX" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1422" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -89,6 +89,65 @@
         </mxCell>
         <mxCell id="tVJBb3Tbmj1y1-gVVkl1-13" value="Image" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="tVJBb3Tbmj1y1-gVVkl1-12">
           <mxGeometry width="256" height="240" relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="EVENTOS" id="KKp5Q_9w9gP7UIlRZbHc">
+    <mxGraphModel dx="1422" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="4Qz581KqocCkkXFibosz-0" style=";html=1;" />
+        <mxCell id="4Qz581KqocCkkXFibosz-1" style=";html=1;" parent="4Qz581KqocCkkXFibosz-0" />
+        <mxCell id="4Qz581KqocCkkXFibosz-2" value="TÍTULO" style="whiteSpace=wrap;html=1;" vertex="1" parent="4Qz581KqocCkkXFibosz-1">
+          <mxGeometry x="80" y="40" width="1080" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-3" value="HABITACIONES" style="whiteSpace=wrap;html=1;" vertex="1" parent="4Qz581KqocCkkXFibosz-1">
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-4" value="EVENTOS" style="whiteSpace=wrap;html=1;" vertex="1" parent="4Qz581KqocCkkXFibosz-1">
+          <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-5" value="QUIENES SOMOS" style="whiteSpace=wrap;html=1;" vertex="1" parent="4Qz581KqocCkkXFibosz-1">
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-6" value="UBICACIÓN" style="whiteSpace=wrap;html=1;" vertex="1" parent="4Qz581KqocCkkXFibosz-1">
+          <mxGeometry x="760" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-7" value="PROMOCIONES" style="whiteSpace=wrap;html=1;" vertex="1" parent="4Qz581KqocCkkXFibosz-1">
+          <mxGeometry x="960" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-17" value="&lt;font style=&quot;font-size: 20px&quot;&gt;EVENTO 1&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=center;spacing=20;fontSize=14;" vertex="1" parent="4Qz581KqocCkkXFibosz-1">
+          <mxGeometry x="160" y="240" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-18" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="4Qz581KqocCkkXFibosz-17">
+          <mxGeometry width="360" height="280" relative="1" as="geometry">
+            <mxPoint y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-20" value="DESCRIPCIÓN EVENTO 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Qz581KqocCkkXFibosz-1">
+          <mxGeometry x="560" y="320" width="520" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-21" value="&lt;font style=&quot;font-size: 20px&quot;&gt;EVENTO 2&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=center;spacing=20;fontSize=14;" vertex="1" parent="4Qz581KqocCkkXFibosz-1">
+          <mxGeometry x="160" y="640" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-22" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="4Qz581KqocCkkXFibosz-21">
+          <mxGeometry width="360" height="280" relative="1" as="geometry">
+            <mxPoint y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-23" value="DESCRIPCIÓN EVENTO 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Qz581KqocCkkXFibosz-1">
+          <mxGeometry x="560" y="720" width="520" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-24" value="&lt;font style=&quot;font-size: 20px&quot;&gt;EVENTO 3&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=center;spacing=20;fontSize=14;" vertex="1" parent="4Qz581KqocCkkXFibosz-1">
+          <mxGeometry x="160" y="1040" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-25" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="4Qz581KqocCkkXFibosz-24">
+          <mxGeometry width="360" height="280" relative="1" as="geometry">
+            <mxPoint y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Qz581KqocCkkXFibosz-26" value="DESCRIPCIÓN EVENTO 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4Qz581KqocCkkXFibosz-1">
+          <mxGeometry x="560" y="1120" width="520" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
